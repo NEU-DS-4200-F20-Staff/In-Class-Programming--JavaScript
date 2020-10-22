@@ -48,6 +48,6 @@ Now, grab the element of the document object model (DOM) on the HTML page with I
 
 Some more examples of using innerHTML can be found [on w3schools](https://www.w3schools.com/jsref/prop_html_innerhtml.asp).
 
-# Assignment Setup (For Instructors Only)
+# Assignment setup (for instructors only)
 
-See https://github.com/NEU-DS-4200-F20-Staff/Assignment_Setup_Instructions.
+See https://github.com/NEU-DS-4200-F20-Staff/General_Course_Information/blob/master/assignment-setup.md
